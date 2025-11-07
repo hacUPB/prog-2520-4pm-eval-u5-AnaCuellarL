@@ -1,0 +1,16 @@
+'''
+fp = open("C:\\Users\\ANA SOFIA\\Documents\\Repositorio-Programación\\prog-2025-2-4pm-u4-AnaCuellarL\\Luvia.txt","r")
+datos = fp.read(5)
+print(datos)
+datos = fp.read(5)
+print(datos)
+fp.close()
+'''
+fichero = open("C:\\Users\\ANA SOFIA\\Documents\\Repositorio-Programación\\prog-2025-2-4pm-u4-AnaCuellarL\\Luvia.txt","r")
+linea = fichero.readline()
+print(linea)
+linea = fichero.readline()
+print(linea)
+linea = fichero.readline()
+print(linea)
+fichero.close()

@@ -1,0 +1,12 @@
+Rodolfo
+130
+180.35
+Snopy house
+40
+150.78
+IDK
+222
+238.98
+Light rocket
+1
+300000.0
